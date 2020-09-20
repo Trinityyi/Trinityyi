@@ -10,4 +10,4 @@ I'm Isabelle Maciohsek, a software engineer from Athens, Greece. I love learning
 
 
 ### Contact 📫
-You can contact me on [LinkedIn](https://www.linkedin.com/in/isabelle-viktoria-maciohsek-aa6bb1129)
+You can contact me by [mail](mailto:imaciohsek@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/isabelle-viktoria-maciohsek-aa6bb1129)
