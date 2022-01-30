@@ -10,4 +10,4 @@ I'm Isabelle Maciohsek, a software engineer from Athens, Greece. I love learning
 
 
 ### Contact 📫
-You can contact me by [mail](mailto:imaciohsek@gmail.com) or on [Twitter](https://twitter.com/Trinity_y)
+You can contact me by [mail](mailto:ivmaciohsek@gmail.com) or on [Twitter](https://twitter.com/Trinity_y)
